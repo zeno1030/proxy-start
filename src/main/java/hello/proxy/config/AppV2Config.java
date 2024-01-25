@@ -3,9 +3,6 @@ package hello.proxy.config;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 
-import hello.proxy.app.v1.OrderControllerV1Impl;
-import hello.proxy.app.v1.OrderItemServiceV1Impl;
-import hello.proxy.app.v1.OrderRepositoryV1Impl;
 import hello.proxy.app.v2.OrderControllerV2;
 import hello.proxy.app.v2.OrderRepositoryV2;
 import hello.proxy.app.v2.OrderServiceV2;
