@@ -1,3 +1,3 @@
 ### V1 테스트
-GET http://localhost:8080/v1/request?itemId=hello
+GET http://localhost:8080/v3/request?itemId=hello
 Content-Type: application/json
